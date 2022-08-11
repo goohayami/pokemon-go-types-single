@@ -1,0 +1,50 @@
+body {
+  margin: 0;
+  padding: 0px;
+  background-color: rgb(141, 222, 70);
+  font-family: 'M PLUS Rounded 1c', sans-serif;
+font-family: 'Open Sans', sans-serif;
+}
+header {
+  height: 80px;
+  margin: 0;
+  padding: 0;
+  background-color: rgb(14, 50, 50);
+  margin-bottom: 20px;
+  color: white;
+
+}
+header h2 {
+  margin: 0;
+  text-align: center;
+  line-height: 80px;
+}
+button {
+  font-size: 15px;
+}
+.group-1 {
+  display: flex;
+  gap: 4px;
+  margin-bottom: 20px;
+  margin-left: 4px;
+  justify-content: center;
+}
+.group-2 {
+  display: flex;
+  gap: 4px;
+  margin-bottom: 20px;
+  margin-left: 4px;
+  justify-content: center;
+}
+.group-3 {
+  display: flex;
+  gap: 4px;
+  margin-bottom: 20px;
+  margin-left: 4px;
+  justify-content: center;
+}
+.main-container {
+  font-size: 17px;
+  margin-left: 4px;
+  /* background-color: tomato; */
+}
